@@ -1,4 +1,4 @@
-![Screenshot 2025-04-23 151859](https://github.com/user-attachments/assets/595ff14a-3437-4a2f-84e6-8af2c286609b)# Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
+# Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
 # Register Number :212223230092
 # Date : 19/03/2025
 # AIM :
@@ -78,10 +78,11 @@ int main() {
 	return 0;
 }
 
+
 ```
 
 # OUTPUT
-![Screenshot 2025-04-23 151859](https://github.com/user-attachments/assets/54a9cf77-ec5a-4285-8582-755827544786)
+![Screenshot 2025-04-23 151859](https://github.com/user-attachments/assets/e91d2a90-7c11-400c-ba9c-c92b3db33693)
 
 
 # RESULT
